@@ -61383,5 +61383,27 @@
     "start_date_local": "2026-03-29T05:10:16",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "aerobic_te": 2.7,
+    "avg_cadence": 194,
+    "avg_ground_contact": 237,
+    "avg_hr": 132,
+    "avg_speed_mps": 2.898,
+    "avg_stride_len": 89.19,
+    "avg_vertical_osc": 7.0,
+    "calories": 786,
+    "date": "2026-03-30",
+    "distance": 13841.150390625,
+    "elevation_gain": 0.0,
+    "id": "22349060299",
+    "max_hr": 161,
+    "moving_time": 4776.0,
+    "name": "Treadmill Running",
+    "raw_activity_type": "treadmill_running",
+    "raw_type": "treadmill_running",
+    "start_date_local": "2026-03-30T05:56:11",
+    "type": "VirtualRun",
+    "year": 2026
   }
 ]
