@@ -40194,5 +40194,44 @@
     "start_date_local": "2026-04-16T06:56:34",
     "type": "VirtualRun",
     "year": 2026
+  },
+  {
+    "date": "2026-04-16",
+    "distance": 1110.7900390625,
+    "elevation_gain": 0.0,
+    "id": "22550559907",
+    "moving_time": 412.0,
+    "name": "Treadmill Running",
+    "raw_activity_type": "treadmill_running",
+    "raw_type": "treadmill_running",
+    "start_date_local": "2026-04-16T10:56:10",
+    "type": "VirtualRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-16",
+    "distance": 1127.5,
+    "elevation_gain": 0.0,
+    "id": "22550710158",
+    "moving_time": 167.0,
+    "name": "2 min Just Ride",
+    "raw_activity_type": "indoor_cycling",
+    "raw_type": "indoor_cycling",
+    "start_date_local": "2026-04-16T11:11:24",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-16",
+    "distance": 5240.60986328125,
+    "elevation_gain": 0.0,
+    "id": "22551116131",
+    "moving_time": 1919.0,
+    "name": "Treadmill Running",
+    "raw_activity_type": "treadmill_running",
+    "raw_type": "treadmill_running",
+    "start_date_local": "2026-04-16T11:16:03",
+    "type": "VirtualRun",
+    "year": 2026
   }
 ]
