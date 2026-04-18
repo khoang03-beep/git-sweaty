@@ -40233,5 +40233,31 @@
     "start_date_local": "2026-04-16T11:16:03",
     "type": "VirtualRun",
     "year": 2026
+  },
+  {
+    "date": "2026-04-17",
+    "distance": 8633.7998046875,
+    "elevation_gain": 0.0,
+    "id": "22562538339",
+    "moving_time": 3051.0,
+    "name": "Treadmill Running",
+    "raw_activity_type": "treadmill_running",
+    "raw_type": "treadmill_running",
+    "start_date_local": "2026-04-17T10:57:46",
+    "type": "VirtualRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-18",
+    "distance": 11687.3095703125,
+    "elevation_gain": 6.0,
+    "id": "22571040448",
+    "moving_time": 4551.241027832031,
+    "name": "Buena Park Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-04-18T05:23:02",
+    "type": "Run",
+    "year": 2026
   }
 ]
