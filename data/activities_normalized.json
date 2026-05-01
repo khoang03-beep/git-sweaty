@@ -40493,5 +40493,31 @@
     "start_date_local": "2026-04-29T11:22:10",
     "type": "VirtualRun",
     "year": 2026
+  },
+  {
+    "date": "2026-04-30",
+    "distance": 3307.9599609375,
+    "elevation_gain": 0.0,
+    "id": "22717038177",
+    "moving_time": 1229.0,
+    "name": "Treadmill Running",
+    "raw_activity_type": "treadmill_running",
+    "raw_type": "treadmill_running",
+    "start_date_local": "2026-04-30T11:03:53",
+    "type": "VirtualRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-30",
+    "distance": 5771.72998046875,
+    "elevation_gain": 0.0,
+    "id": "22717222573",
+    "moving_time": 724.0,
+    "name": "12 min Just Ride",
+    "raw_activity_type": "indoor_cycling",
+    "raw_type": "indoor_cycling",
+    "start_date_local": "2026-04-30T11:29:45",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
