@@ -40545,5 +40545,18 @@
     "start_date_local": "2026-05-02T05:09:00",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-03",
+    "distance": 19478.080078125,
+    "elevation_gain": 11.0,
+    "id": "22750508241",
+    "moving_time": 7205.782958984375,
+    "name": "Buena Park Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-05-03T05:10:32",
+    "type": "Run",
+    "year": 2026
   }
 ]
