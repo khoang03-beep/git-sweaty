@@ -21839,6 +21839,27 @@
       "subtype": "running",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-05-03",
+      "hour": 9,
+      "subtype": "walking",
+      "type": "Walk",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-03",
+      "hour": 13,
+      "subtype": "jump_rope",
+      "type": "jump_rope",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-04",
+      "hour": 6,
+      "subtype": "treadmill_running",
+      "type": "VirtualRun",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -46565,6 +46586,15 @@
           "distance": 5267.60009765625,
           "elevation_gain": 0.0,
           "moving_time": 1852.251953125
+        },
+        "2026-05-04": {
+          "activity_ids": [
+            "22761565101"
+          ],
+          "count": 1,
+          "distance": 13203.0400390625,
+          "elevation_gain": 0.0,
+          "moving_time": 4909.0
         }
       },
       "Walk": {
@@ -46621,11 +46651,31 @@
           "distance": 1423.5899658203125,
           "elevation_gain": 0.0,
           "moving_time": 1179.0
+        },
+        "2026-05-03": {
+          "activity_ids": [
+            "22752288303"
+          ],
+          "count": 1,
+          "distance": 1431.4000244140625,
+          "elevation_gain": 0.0,
+          "moving_time": 1031.0
+        }
+      },
+      "jump_rope": {
+        "2026-05-03": {
+          "activity_ids": [
+            "22754581504"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 63.36000061035156
         }
       }
     }
   },
-  "generated_at": "2026-05-03T15:35:16.782158+00:00",
+  "generated_at": "2026-05-04T16:24:37.532369+00:00",
   "other_bucket": "OtherSports",
   "repo": "khoang03-beep/git-sweaty",
   "source": "garmin",
@@ -46666,6 +46716,10 @@
       "accent": "#ffbe0b",
       "label": "Breathwork"
     },
+    "jump_rope": {
+      "accent": "#f15bb5",
+      "label": "Jump rope"
+    },
     "stair_climbing": {
       "accent": "#f15bb5",
       "label": "Stair climbing"
@@ -46681,6 +46735,7 @@
     "Workout",
     "breathwork",
     "basketball",
+    "jump_rope",
     "stair_climbing"
   ],
   "units": {
