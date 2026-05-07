@@ -40662,5 +40662,18 @@
     "start_date_local": "2026-05-06T07:02:08",
     "type": "VirtualRun",
     "year": 2026
+  },
+  {
+    "date": "2026-05-07",
+    "distance": 7589.81982421875,
+    "elevation_gain": 0.0,
+    "id": "22797304525",
+    "moving_time": 3005.7729997634888,
+    "name": "NS - W1 - Easy Run 50'",
+    "raw_activity_type": "treadmill_running",
+    "raw_type": "treadmill_running",
+    "start_date_local": "2026-05-07T06:27:17",
+    "type": "VirtualRun",
+    "year": 2026
   }
 ]
