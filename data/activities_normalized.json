@@ -40675,5 +40675,31 @@
     "start_date_local": "2026-05-07T06:27:17",
     "type": "VirtualRun",
     "year": 2026
+  },
+  {
+    "date": "2026-05-07",
+    "distance": 552.1599731445312,
+    "elevation_gain": 0.0,
+    "id": "22803557871",
+    "moving_time": 464.0,
+    "name": "Buena Park Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-05-07T18:48:37",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-08",
+    "distance": 10527.3896484375,
+    "elevation_gain": 16.0,
+    "id": "22808777584",
+    "moving_time": 3774.0759887695312,
+    "name": "Fountain Valley Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-05-08T05:45:44",
+    "type": "Run",
+    "year": 2026
   }
 ]
