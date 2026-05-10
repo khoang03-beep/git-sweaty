@@ -40714,5 +40714,18 @@
     "start_date_local": "2026-05-08T10:59:53",
     "type": "VirtualRun",
     "year": 2026
+  },
+  {
+    "date": "2026-05-10",
+    "distance": 14122.2197265625,
+    "elevation_gain": 7.0,
+    "id": "22832622090",
+    "moving_time": 4186.716000080109,
+    "name": "Buena Park - NS - W1 - SubT 15x3 @ 4:46/km",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-05-10T05:14:36",
+    "type": "Run",
+    "year": 2026
   }
 ]
