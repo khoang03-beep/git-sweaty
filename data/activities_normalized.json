@@ -40753,5 +40753,31 @@
     "start_date_local": "2026-05-11T06:12:26",
     "type": "VirtualRun",
     "year": 2026
+  },
+  {
+    "date": "2026-05-11",
+    "distance": 8120.0,
+    "elevation_gain": 0.0,
+    "id": "22846608602",
+    "moving_time": 3300.0,
+    "name": "NS - W1 - Easy Run 50'",
+    "raw_activity_type": "treadmill_running",
+    "raw_type": "treadmill_running",
+    "start_date_local": "2026-05-11T10:58:26",
+    "type": "VirtualRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-12",
+    "distance": 6357.6201171875,
+    "elevation_gain": 6.0,
+    "id": "22855413112",
+    "moving_time": 2465.6099853515625,
+    "name": "Irvine Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-05-12T06:50:20",
+    "type": "Run",
+    "year": 2026
   }
 ]
