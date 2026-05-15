@@ -40792,5 +40792,18 @@
     "start_date_local": "2026-05-13T05:30:29",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-15",
+    "distance": 12502.73046875,
+    "elevation_gain": 0.0,
+    "id": "22890508450",
+    "moving_time": 3902.98388671875,
+    "name": "NS - W1 - SubT 6x6 @ 4:52/km",
+    "raw_activity_type": "treadmill_running",
+    "raw_type": "treadmill_running",
+    "start_date_local": "2026-05-15T06:19:16",
+    "type": "VirtualRun",
+    "year": 2026
   }
 ]
