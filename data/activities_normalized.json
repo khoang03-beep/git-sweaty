@@ -40831,5 +40831,18 @@
     "start_date_local": "2026-05-17T05:33:30",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-18",
+    "distance": 8555.8603515625,
+    "elevation_gain": 0.0,
+    "id": "22924035622",
+    "moving_time": 3303.994999885559,
+    "name": "NS - W2 - Easy Run 55'",
+    "raw_activity_type": "treadmill_running",
+    "raw_type": "treadmill_running",
+    "start_date_local": "2026-05-18T06:21:09",
+    "type": "VirtualRun",
+    "year": 2026
   }
 ]
