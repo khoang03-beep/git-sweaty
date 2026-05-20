@@ -22007,6 +22007,27 @@
       "subtype": "running",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-05-19",
+      "hour": 18,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-20",
+      "hour": 6,
+      "subtype": "indoor_cycling",
+      "type": "VirtualRide",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-20",
+      "hour": 6,
+      "subtype": "treadmill_running",
+      "type": "VirtualRun",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -46084,12 +46105,13 @@
         },
         "2026-05-19": {
           "activity_ids": [
-            "22936382769"
+            "22936382769",
+            "22943014267"
           ],
-          "count": 1,
-          "distance": 6336.77978515625,
-          "elevation_gain": 5.0,
-          "moving_time": 2411.8900146484375
+          "count": 2,
+          "distance": 16778.76025390625,
+          "elevation_gain": 14.0,
+          "moving_time": 5534.743014574051
         }
       },
       "VirtualRide": {
@@ -46164,6 +46186,15 @@
           "distance": 5771.72998046875,
           "elevation_gain": 0.0,
           "moving_time": 724.0
+        },
+        "2026-05-20": {
+          "activity_ids": [
+            "22948286316"
+          ],
+          "count": 1,
+          "distance": 8111.06982421875,
+          "elevation_gain": 0.0,
+          "moving_time": 1118.0
         }
       },
       "VirtualRun": {
@@ -46881,6 +46912,15 @@
           "distance": 4994.43994140625,
           "elevation_gain": 0.0,
           "moving_time": 1927.0
+        },
+        "2026-05-20": {
+          "activity_ids": [
+            "22948800909"
+          ],
+          "count": 1,
+          "distance": 9209.0302734375,
+          "elevation_gain": 0.0,
+          "moving_time": 3351.0
         }
       },
       "Walk": {
@@ -46979,7 +47019,7 @@
       }
     }
   },
-  "generated_at": "2026-05-19T17:31:26.696444+00:00",
+  "generated_at": "2026-05-20T17:47:09.460413+00:00",
   "other_bucket": "OtherSports",
   "repo": "khoang03-beep/git-sweaty",
   "source": "garmin",

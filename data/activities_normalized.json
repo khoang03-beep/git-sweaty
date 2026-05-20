@@ -40870,5 +40870,44 @@
     "start_date_local": "2026-05-19T06:50:53",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-19",
+    "distance": 10441.98046875,
+    "elevation_gain": 9.0,
+    "id": "22943014267",
+    "moving_time": 3122.8529999256134,
+    "name": "Buena Park - NS - W1 - SubT 4X10 @ 5:03/km",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-05-19T18:46:15",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-20",
+    "distance": 8111.06982421875,
+    "elevation_gain": 0.0,
+    "id": "22948286316",
+    "moving_time": 1118.0,
+    "name": "18 min Just Ride",
+    "raw_activity_type": "indoor_cycling",
+    "raw_type": "indoor_cycling",
+    "start_date_local": "2026-05-20T06:30:38",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-20",
+    "distance": 9209.0302734375,
+    "elevation_gain": 0.0,
+    "id": "22948800909",
+    "moving_time": 3351.0,
+    "name": "NS - W1 - Easy Run 45'",
+    "raw_activity_type": "treadmill_running",
+    "raw_type": "treadmill_running",
+    "start_date_local": "2026-05-20T06:57:12",
+    "type": "VirtualRun",
+    "year": 2026
   }
 ]
