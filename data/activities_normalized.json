@@ -40922,5 +40922,44 @@
     "start_date_local": "2026-05-21T06:22:19",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-23",
+    "distance": 3470.219970703125,
+    "elevation_gain": 1.0,
+    "id": "22982777661",
+    "moving_time": 1276.0,
+    "name": "Buena Park Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-05-23T05:00:20",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-23",
+    "distance": 10560.16015625,
+    "elevation_gain": 3.0,
+    "id": "22983419738",
+    "moving_time": 3064.0,
+    "name": "Cypress - NS - W2 - SubT 6x6 @ 4:52/km",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-05-23T05:26:10",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-23",
+    "distance": 2337.31005859375,
+    "elevation_gain": 3.0,
+    "id": "22983615699",
+    "moving_time": 890.5830078125,
+    "name": "Cypress Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-05-23T06:17:41",
+    "type": "Run",
+    "year": 2026
   }
 ]
