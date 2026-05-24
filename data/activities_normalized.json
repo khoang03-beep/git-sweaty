@@ -40961,5 +40961,18 @@
     "start_date_local": "2026-05-23T06:17:41",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-24",
+    "distance": 12905.2197265625,
+    "elevation_gain": 10.0,
+    "id": "22995907909",
+    "moving_time": 5096.0,
+    "name": "Buena Park - NS - W1 - Easy Run 80'",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-05-24T05:21:26",
+    "type": "Run",
+    "year": 2026
   }
 ]
