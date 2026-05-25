@@ -22063,6 +22063,41 @@
       "subtype": "running",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-05-24",
+      "hour": 9,
+      "subtype": "jump_rope",
+      "type": "jump_rope",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-24",
+      "hour": 9,
+      "subtype": "walking",
+      "type": "Walk",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-24",
+      "hour": 15,
+      "subtype": "jump_rope",
+      "type": "jump_rope",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-25",
+      "hour": 5,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-25",
+      "hour": 6,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -46176,6 +46211,16 @@
           "distance": 12905.2197265625,
           "elevation_gain": 10.0,
           "moving_time": 5096.0
+        },
+        "2026-05-25": {
+          "activity_ids": [
+            "23007269349",
+            "23007320023"
+          ],
+          "count": 2,
+          "distance": 14093.3095703125,
+          "elevation_gain": 9.0,
+          "moving_time": 4608.0
         }
       },
       "VirtualRide": {
@@ -47068,6 +47113,15 @@
           "distance": 698.9600219726562,
           "elevation_gain": 0.0,
           "moving_time": 607.0
+        },
+        "2026-05-24": {
+          "activity_ids": [
+            "22998156377"
+          ],
+          "count": 1,
+          "distance": 1216.77001953125,
+          "elevation_gain": 0.0,
+          "moving_time": 880.0
         }
       },
       "jump_rope": {
@@ -47079,11 +47133,21 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 63.36000061035156
+        },
+        "2026-05-24": {
+          "activity_ids": [
+            "22997929482",
+            "23000831961"
+          ],
+          "count": 2,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 87.60000038146973
         }
       }
     }
   },
-  "generated_at": "2026-05-24T15:51:59.762200+00:00",
+  "generated_at": "2026-05-25T16:55:08.842398+00:00",
   "other_bucket": "OtherSports",
   "repo": "khoang03-beep/git-sweaty",
   "source": "garmin",
