@@ -41039,5 +41039,18 @@
     "start_date_local": "2026-05-25T06:00:04",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-27",
+    "distance": 10329.740234375,
+    "elevation_gain": 64.0,
+    "id": "23031677892",
+    "moving_time": 4010.0,
+    "name": "Honolulu Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-05-27T02:17:28",
+    "type": "Run",
+    "year": 2026
   }
 ]
