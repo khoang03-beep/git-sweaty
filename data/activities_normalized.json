@@ -41091,5 +41091,31 @@
     "start_date_local": "2026-05-28T05:45:57",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-28",
+    "distance": 241.85000610351562,
+    "elevation_gain": 0.0,
+    "id": "23048254429",
+    "moving_time": 388.0,
+    "name": "Honolulu Open Water Swimming",
+    "raw_activity_type": "open_water_swimming",
+    "raw_type": "open_water_swimming",
+    "start_date_local": "2026-05-28T08:59:48",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-29",
+    "distance": 8391.23046875,
+    "elevation_gain": 66.0,
+    "id": "23057217785",
+    "moving_time": 3334.0,
+    "name": "Honolulu Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-05-29T04:27:21",
+    "type": "Run",
+    "year": 2026
   }
 ]
