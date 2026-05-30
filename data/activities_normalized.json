@@ -41117,5 +41117,18 @@
     "start_date_local": "2026-05-29T04:27:21",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-29",
+    "distance": 685.3599853515625,
+    "elevation_gain": 7.0,
+    "id": "23062180804",
+    "moving_time": 659.0,
+    "name": "Honolulu Hiking",
+    "raw_activity_type": "hiking",
+    "raw_type": "hiking",
+    "start_date_local": "2026-05-29T14:20:40",
+    "type": "Hike",
+    "year": 2026
   }
 ]
