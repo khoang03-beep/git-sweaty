@@ -41169,5 +41169,31 @@
     "start_date_local": "2026-06-02T06:53:21",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-02",
+    "distance": 10735.1904296875,
+    "elevation_gain": 0.0,
+    "id": "23107973674",
+    "moving_time": 3121.0,
+    "name": "NS - W3 - SubT 4X10 @ 5:03/km",
+    "raw_activity_type": "treadmill_running",
+    "raw_type": "treadmill_running",
+    "start_date_local": "2026-06-02T11:36:40",
+    "type": "VirtualRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-03",
+    "distance": 8610.33984375,
+    "elevation_gain": 12.0,
+    "id": "23116007528",
+    "moving_time": 3304.451904296875,
+    "name": "Fountain Valley - NS - W3 - Easy Run 55'",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-06-03T05:51:15",
+    "type": "Run",
+    "year": 2026
   }
 ]
