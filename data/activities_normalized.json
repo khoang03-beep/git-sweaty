@@ -41273,5 +41273,31 @@
     "start_date_local": "2026-06-07T05:33:15",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-08",
+    "distance": 8564.080078125,
+    "elevation_gain": 0.0,
+    "id": "23175644822",
+    "moving_time": 3307.702880859375,
+    "name": "NS - W2 - Easy Run 55'",
+    "raw_activity_type": "treadmill_running",
+    "raw_type": "treadmill_running",
+    "start_date_local": "2026-06-08T06:08:43",
+    "type": "VirtualRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-08",
+    "distance": 4085.889892578125,
+    "elevation_gain": 0.0,
+    "id": "23175645511",
+    "moving_time": 1247.6220092773438,
+    "name": "Treadmill Running",
+    "raw_activity_type": "treadmill_running",
+    "raw_type": "treadmill_running",
+    "start_date_local": "2026-06-08T07:06:57",
+    "type": "VirtualRun",
+    "year": 2026
   }
 ]
