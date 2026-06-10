@@ -41338,5 +41338,31 @@
     "start_date_local": "2026-06-09T06:55:13",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-10",
+    "distance": 2108.760009765625,
+    "elevation_gain": 0.0,
+    "id": "23201002138",
+    "moving_time": 816.0,
+    "name": "Treadmill Running",
+    "raw_activity_type": "treadmill_running",
+    "raw_type": "treadmill_running",
+    "start_date_local": "2026-06-10T06:24:10",
+    "type": "VirtualRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-10",
+    "distance": 10361.75,
+    "elevation_gain": 0.0,
+    "id": "23201003289",
+    "moving_time": 3001.0,
+    "name": "NS - W4 - SubT 4X10 @ 5:03/km",
+    "raw_activity_type": "treadmill_running",
+    "raw_type": "treadmill_running",
+    "start_date_local": "2026-06-10T07:21:19",
+    "type": "VirtualRun",
+    "year": 2026
   }
 ]
