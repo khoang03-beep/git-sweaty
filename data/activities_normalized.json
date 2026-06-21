@@ -41481,5 +41481,18 @@
     "start_date_local": "2026-06-16T06:53:09",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-20",
+    "distance": 59569.4296875,
+    "elevation_gain": 120.0,
+    "id": "23321201868",
+    "moving_time": 23190.0,
+    "name": "Lakewood Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-06-20T06:00:03",
+    "type": "Run",
+    "year": 2026
   }
 ]
