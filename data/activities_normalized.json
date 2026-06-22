@@ -41494,5 +41494,31 @@
     "start_date_local": "2026-06-20T06:00:03",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-21",
+    "distance": 1182.489990234375,
+    "elevation_gain": 1.0,
+    "id": "23331467368",
+    "moving_time": 965.0,
+    "name": "Buena Park Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-06-21T09:43:20",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-22",
+    "distance": 11437.3095703125,
+    "elevation_gain": 0.0,
+    "id": "23340327837",
+    "moving_time": 4542.0,
+    "name": "Treadmill Running",
+    "raw_activity_type": "treadmill_running",
+    "raw_type": "treadmill_running",
+    "start_date_local": "2026-06-22T06:34:06",
+    "type": "VirtualRun",
+    "year": 2026
   }
 ]
