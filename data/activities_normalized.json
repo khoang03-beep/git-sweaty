@@ -41572,5 +41572,18 @@
     "start_date_local": "2026-06-25T06:45:55",
     "type": "VirtualRun",
     "year": 2026
+  },
+  {
+    "date": "2026-06-26",
+    "distance": 11434.8798828125,
+    "elevation_gain": 18.0,
+    "id": "23386350443",
+    "moving_time": 4284.0,
+    "name": "Fountain Valley Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-06-26T06:01:27",
+    "type": "Run",
+    "year": 2026
   }
 ]
