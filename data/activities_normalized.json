@@ -41741,5 +41741,18 @@
     "start_date_local": "2026-07-03T05:41:16",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-04",
+    "distance": 7632.4599609375,
+    "elevation_gain": 3.0,
+    "id": "23477070776",
+    "moving_time": 2311.289999961853,
+    "name": "Buena Park - 3 x 10:00 (heat-adj)",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-07-04T06:15:33",
+    "type": "Run",
+    "year": 2026
   }
 ]
