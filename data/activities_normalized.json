@@ -41767,5 +41767,44 @@
     "start_date_local": "2026-07-06T05:16:36",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-07",
+    "distance": 2104.0,
+    "elevation_gain": 7.0,
+    "id": "23509244772",
+    "moving_time": 805.3240051269531,
+    "name": "Draper Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-07-07T05:05:22",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-07",
+    "distance": 8553.2802734375,
+    "elevation_gain": 1.0,
+    "id": "23510020117",
+    "moving_time": 2642.0,
+    "name": "Draper - 10 x 3:00 (heat-adj)",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-07-07T05:21:51",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-07",
+    "distance": 1485.300048828125,
+    "elevation_gain": 0.0,
+    "id": "23510021563",
+    "moving_time": 589.0,
+    "name": "Draper Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-07-07T06:09:39",
+    "type": "Run",
+    "year": 2026
   }
 ]
