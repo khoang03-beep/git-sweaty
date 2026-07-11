@@ -41845,5 +41845,31 @@
     "start_date_local": "2026-07-10T07:38:03",
     "type": "VirtualRun",
     "year": 2026
+  },
+  {
+    "date": "2026-07-11",
+    "distance": 1836.530029296875,
+    "elevation_gain": 0.0,
+    "id": "23559697127",
+    "moving_time": 695.0,
+    "name": "Buena Park Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-07-11T06:18:23",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-11",
+    "distance": 7812.25,
+    "elevation_gain": 5.0,
+    "id": "23559697642",
+    "moving_time": 2402.0,
+    "name": "Buena Park - 3 x 10:00 (heat-adj)",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-07-11T06:33:19",
+    "type": "Run",
+    "year": 2026
   }
 ]
