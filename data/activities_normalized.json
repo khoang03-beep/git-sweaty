@@ -41897,5 +41897,31 @@
     "start_date_local": "2026-07-12T04:44:14",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-12",
+    "distance": 694.77001953125,
+    "elevation_gain": 0.0,
+    "id": "23573006359",
+    "moving_time": 588.0,
+    "name": "Buena Park Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-07-12T09:32:48",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-12",
+    "distance": 336.5299987792969,
+    "elevation_gain": 0.0,
+    "id": "23573611919",
+    "moving_time": 178.0,
+    "name": "Cypress Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-07-12T10:34:22",
+    "type": "Walk",
+    "year": 2026
   }
 ]
