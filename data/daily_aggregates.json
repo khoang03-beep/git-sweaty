@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T17:03:12.599719+00:00",
+  "generated_at": "2026-07-14T16:05:34.765148+00:00",
   "years": {
     "2015": {
       "Run": {
@@ -24354,6 +24354,15 @@
           "distance": 15118.3896484375,
           "elevation_gain": 8.0,
           "moving_time": 6062.0
+        },
+        "2026-07-14": {
+          "activity_ids": [
+            "23596180666"
+          ],
+          "count": 1,
+          "distance": 6357.4599609375,
+          "elevation_gain": 4.0,
+          "moving_time": 2527.0
         }
       },
       "Swim": {
@@ -25356,6 +25365,24 @@
           "distance": 14462.880126953125,
           "elevation_gain": 0.0,
           "moving_time": 4777.6090087890625
+        },
+        "2026-07-13": {
+          "activity_ids": [
+            "23586438512"
+          ],
+          "count": 1,
+          "distance": 11445.259765625,
+          "elevation_gain": 0.0,
+          "moving_time": 4382.5830078125
+        },
+        "2026-07-14": {
+          "activity_ids": [
+            "23596181710"
+          ],
+          "count": 1,
+          "distance": 8558.8095703125,
+          "elevation_gain": 0.0,
+          "moving_time": 2642.8120000362396
         }
       },
       "Walk": {
@@ -25494,6 +25521,15 @@
           "distance": 1031.3000183105469,
           "elevation_gain": 0.0,
           "moving_time": 766.0
+        },
+        "2026-07-13": {
+          "activity_ids": [
+            "23588976031"
+          ],
+          "count": 1,
+          "distance": 1604.0400390625,
+          "elevation_gain": 1.0,
+          "moving_time": 1152.0
         }
       },
       "jump_rope": {
