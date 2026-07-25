@@ -42157,5 +42157,18 @@
     "start_date_local": "2026-07-23T07:20:01",
     "type": "VirtualRun",
     "year": 2026
+  },
+  {
+    "date": "2026-07-25",
+    "distance": 4909.97021484375,
+    "elevation_gain": 60.0,
+    "id": "23728666361",
+    "moving_time": 1399.6610107421875,
+    "name": "Fullerton Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-07-25T07:37:15",
+    "type": "Run",
+    "year": 2026
   }
 ]
