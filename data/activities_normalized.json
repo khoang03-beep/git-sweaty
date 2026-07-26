@@ -42170,5 +42170,57 @@
     "start_date_local": "2026-07-25T07:37:15",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-25",
+    "distance": 1346.8599853515625,
+    "elevation_gain": 0.0,
+    "id": "23733514025",
+    "moving_time": 1041.0,
+    "name": "Buena Park Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-07-25T19:20:26",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-26",
+    "distance": 12310.26953125,
+    "elevation_gain": 9.0,
+    "id": "23739917825",
+    "moving_time": 4586.0,
+    "name": "Buena Park - Long Run",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-07-26T05:26:16",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-26",
+    "distance": 8053.60009765625,
+    "elevation_gain": 10.0,
+    "id": "23739917991",
+    "moving_time": 2431.0,
+    "name": "Buena Park - 3 x 10:00 (heat-adj)",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-07-26T06:46:21",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-26",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "23740526841",
+    "moving_time": 56.560001373291016,
+    "name": "Jump Rope",
+    "raw_activity_type": "jump_rope",
+    "raw_type": "jump_rope",
+    "start_date_local": "2026-07-26T08:14:26",
+    "type": "jump_rope",
+    "year": 2026
   }
 ]

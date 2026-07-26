@@ -22707,6 +22707,34 @@
       "subtype": "running",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-07-25",
+      "hour": 19,
+      "subtype": "walking",
+      "type": "Walk",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-26",
+      "hour": 5,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-26",
+      "hour": 6,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-26",
+      "hour": 8,
+      "subtype": "jump_rope",
+      "type": "jump_rope",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -47108,6 +47136,16 @@
           "distance": 4909.97021484375,
           "elevation_gain": 60.0,
           "moving_time": 1399.6610107421875
+        },
+        "2026-07-26": {
+          "activity_ids": [
+            "23739917825",
+            "23739917991"
+          ],
+          "count": 2,
+          "distance": 20363.86962890625,
+          "elevation_gain": 19.0,
+          "moving_time": 7017.0
         }
       },
       "Swim": {
@@ -48350,6 +48388,15 @@
           "distance": 703.8099975585938,
           "elevation_gain": 0.0,
           "moving_time": 548.0
+        },
+        "2026-07-25": {
+          "activity_ids": [
+            "23733514025"
+          ],
+          "count": 1,
+          "distance": 1346.8599853515625,
+          "elevation_gain": 0.0,
+          "moving_time": 1041.0
         }
       },
       "jump_rope": {
@@ -48371,11 +48418,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 87.60000038146973
+        },
+        "2026-07-26": {
+          "activity_ids": [
+            "23740526841"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 56.560001373291016
         }
       }
     }
   },
-  "generated_at": "2026-07-25T15:52:35.566146+00:00",
+  "generated_at": "2026-07-26T15:51:05.629880+00:00",
   "other_bucket": "OtherSports",
   "repo": "khoang03-beep/git-sweaty",
   "source": "garmin",
@@ -48444,8 +48500,8 @@
     "WeightTraining",
     "Workout",
     "breathwork",
-    "basketball",
     "jump_rope",
+    "basketball",
     "stair_climbing"
   ],
   "units": {
