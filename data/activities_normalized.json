@@ -42287,5 +42287,31 @@
     "start_date_local": "2026-07-29T07:03:32",
     "type": "VirtualRun",
     "year": 2026
+  },
+  {
+    "date": "2026-07-29",
+    "distance": 2866.239990234375,
+    "elevation_gain": 0.0,
+    "id": "23780320647",
+    "moving_time": 1129.0,
+    "name": "Treadmill Running",
+    "raw_activity_type": "treadmill_running",
+    "raw_type": "treadmill_running",
+    "start_date_local": "2026-07-29T11:13:30",
+    "type": "VirtualRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-30",
+    "distance": 9987.6796875,
+    "elevation_gain": 15.0,
+    "id": "23789307468",
+    "moving_time": 3817.0,
+    "name": "Fountain Valley - Easy Run",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-07-30T06:12:57",
+    "type": "Run",
+    "year": 2026
   }
 ]
