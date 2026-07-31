@@ -42313,5 +42313,31 @@
     "start_date_local": "2026-07-30T06:12:57",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-31",
+    "distance": 2554.699951171875,
+    "elevation_gain": 0.0,
+    "id": "23801642276",
+    "moving_time": 985.8800048828125,
+    "name": "Treadmill Running",
+    "raw_activity_type": "treadmill_running",
+    "raw_type": "treadmill_running",
+    "start_date_local": "2026-07-31T06:49:29",
+    "type": "VirtualRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-31",
+    "distance": 8310.08984375,
+    "elevation_gain": 0.0,
+    "id": "23801643241",
+    "moving_time": 2493.52392578125,
+    "name": "5 x 6:00",
+    "raw_activity_type": "treadmill_running",
+    "raw_type": "treadmill_running",
+    "start_date_local": "2026-07-31T07:09:26",
+    "type": "VirtualRun",
+    "year": 2026
   }
 ]
