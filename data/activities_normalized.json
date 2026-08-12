@@ -42521,5 +42521,44 @@
     "start_date_local": "2026-08-09T05:17:29",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-11",
+    "distance": 6367.14990234375,
+    "elevation_gain": 3.0,
+    "id": "23940672293",
+    "moving_time": 2510.0,
+    "name": "Irvine Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-08-11T06:51:36",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-11",
+    "distance": 8674.1396484375,
+    "elevation_gain": 1.0,
+    "id": "23940677100",
+    "moving_time": 2641.0,
+    "name": "10 x 3:00",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-08-11T11:08:33",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-12",
+    "distance": 12902.599609375,
+    "elevation_gain": 5.0,
+    "id": "23949847799",
+    "moving_time": 5462.0,
+    "name": "Buena Park - Easy Run",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-08-12T05:09:26",
+    "type": "Run",
+    "year": 2026
   }
 ]
