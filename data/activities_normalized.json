@@ -42716,5 +42716,44 @@
     "start_date_local": "2026-08-20T11:17:09",
     "type": "VirtualRun",
     "year": 2026
+  },
+  {
+    "date": "2026-08-21",
+    "distance": 10054.26953125,
+    "elevation_gain": 0.0,
+    "id": "24064650153",
+    "moving_time": 3611.64990234375,
+    "name": "Treadmill Running",
+    "raw_activity_type": "treadmill_running",
+    "raw_type": "treadmill_running",
+    "start_date_local": "2026-08-21T06:48:26",
+    "type": "VirtualRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-21",
+    "distance": 9714.25,
+    "elevation_gain": 0.0,
+    "id": "24064653946",
+    "moving_time": 2938.6699999570847,
+    "name": "6 x 6:00",
+    "raw_activity_type": "treadmill_running",
+    "raw_type": "treadmill_running",
+    "start_date_local": "2026-08-21T11:22:59",
+    "type": "VirtualRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-22",
+    "distance": 13466.3095703125,
+    "elevation_gain": 8.0,
+    "id": "24073459185",
+    "moving_time": 5163.93700003624,
+    "name": "Buena Park - Long Run",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-08-22T05:40:00",
+    "type": "Run",
+    "year": 2026
   }
 ]
