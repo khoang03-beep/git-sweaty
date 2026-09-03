@@ -42911,5 +42911,44 @@
     "start_date_local": "2026-08-31T11:00:24",
     "type": "VirtualRun",
     "year": 2026
+  },
+  {
+    "date": "2026-09-01",
+    "distance": 6344.16015625,
+    "elevation_gain": 3.0,
+    "id": "24217539641",
+    "moving_time": 2643.0,
+    "name": "Irvine Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-09-01T06:55:19",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-03",
+    "distance": 9748.4296875,
+    "elevation_gain": 0.0,
+    "id": "24223709825",
+    "moving_time": 2942.0,
+    "name": "6 x 6:00",
+    "raw_activity_type": "treadmill_running",
+    "raw_type": "treadmill_running",
+    "start_date_local": "2026-09-03T06:28:53",
+    "type": "VirtualRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-03",
+    "distance": 1638.3299560546875,
+    "elevation_gain": 0.0,
+    "id": "24223710375",
+    "moving_time": 648.0,
+    "name": "Treadmill Running",
+    "raw_activity_type": "treadmill_running",
+    "raw_type": "treadmill_running",
+    "start_date_local": "2026-09-03T07:20:59",
+    "type": "VirtualRun",
+    "year": 2026
   }
 ]
