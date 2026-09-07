@@ -42989,5 +42989,44 @@
     "start_date_local": "2026-09-05T04:51:33",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-06",
+    "distance": 10907.259765625,
+    "elevation_gain": 10.0,
+    "id": "24259466704",
+    "moving_time": 4367.0,
+    "name": "Buena Park Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-09-06T04:50:16",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-06",
+    "distance": 8369.8603515625,
+    "elevation_gain": 10.0,
+    "id": "24265222706",
+    "moving_time": 2400.0,
+    "name": "Buena Park - 3 x 10:00",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-09-06T15:09:34",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-07",
+    "distance": 12321.8203125,
+    "elevation_gain": 11.0,
+    "id": "24273999381",
+    "moving_time": 4386.8740234375,
+    "name": "Buena Park - Easy Run",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-09-07T08:59:56",
+    "type": "Run",
+    "year": 2026
   }
 ]
