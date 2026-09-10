@@ -23204,6 +23204,20 @@
       "subtype": "treadmill_running",
       "type": "VirtualRun",
       "year": 2026
+    },
+    {
+      "date": "2026-09-10",
+      "hour": 6,
+      "subtype": "treadmill_running",
+      "type": "VirtualRun",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-10",
+      "hour": 6,
+      "subtype": "treadmill_running",
+      "type": "VirtualRun",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -49093,6 +49107,16 @@
           "distance": 11434.75,
           "elevation_gain": 0.0,
           "moving_time": 4376.0
+        },
+        "2026-09-10": {
+          "activity_ids": [
+            "24309673040",
+            "24310242395"
+          ],
+          "count": 2,
+          "distance": 11458.65966796875,
+          "elevation_gain": 0.0,
+          "moving_time": 3632.0
         }
       },
       "Walk": {
@@ -49311,7 +49335,7 @@
       }
     }
   },
-  "generated_at": "2026-09-09T18:02:44.499073+00:00",
+  "generated_at": "2026-09-10T17:55:29.349915+00:00",
   "other_bucket": "OtherSports",
   "repo": "khoang03-beep/git-sweaty",
   "source": "garmin",
