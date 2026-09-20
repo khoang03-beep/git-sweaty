@@ -43366,5 +43366,18 @@
     "start_date_local": "2026-09-19T06:24:47",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-20",
+    "distance": 16307.01953125,
+    "elevation_gain": 9.0,
+    "id": "24432789604",
+    "moving_time": 5984.697998046875,
+    "name": "Buena Park - Long Run",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-09-20T05:10:41",
+    "type": "Run",
+    "year": 2026
   }
 ]
