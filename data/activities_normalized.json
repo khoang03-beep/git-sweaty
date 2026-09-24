@@ -43457,5 +43457,44 @@
     "start_date_local": "2026-09-23T07:06:02",
     "type": "VirtualRun",
     "year": 2026
+  },
+  {
+    "date": "2026-09-23",
+    "distance": 6151.14990234375,
+    "elevation_gain": 8.0,
+    "id": "24473921715",
+    "moving_time": 2357.801025390625,
+    "name": "Irvine - Easy Run",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-09-23T11:40:14",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-24",
+    "distance": 1645.6800537109375,
+    "elevation_gain": 0.0,
+    "id": "24482034431",
+    "moving_time": 674.0,
+    "name": "Treadmill Running",
+    "raw_activity_type": "treadmill_running",
+    "raw_type": "treadmill_running",
+    "start_date_local": "2026-09-24T06:39:02",
+    "type": "VirtualRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-24",
+    "distance": 9922.7001953125,
+    "elevation_gain": 0.0,
+    "id": "24482545401",
+    "moving_time": 2935.860000014305,
+    "name": "6 x 6:00",
+    "raw_activity_type": "treadmill_running",
+    "raw_type": "treadmill_running",
+    "start_date_local": "2026-09-24T06:52:02",
+    "type": "VirtualRun",
+    "year": 2026
   }
 ]
