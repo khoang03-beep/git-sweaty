@@ -43548,5 +43548,31 @@
     "start_date_local": "2026-09-26T06:30:35",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-26",
+    "distance": 741.510009765625,
+    "elevation_gain": 0.0,
+    "id": "24511500915",
+    "moving_time": 626.0,
+    "name": "Buena Park Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-09-26T18:45:59",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-27",
+    "distance": 14920.7900390625,
+    "elevation_gain": 13.0,
+    "id": "24518443113",
+    "moving_time": 6002.147000074387,
+    "name": "Buena Park - Long Run",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-09-27T05:28:18",
+    "type": "Run",
+    "year": 2026
   }
 ]
