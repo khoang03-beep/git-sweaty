@@ -43574,5 +43574,44 @@
     "start_date_local": "2026-09-27T05:28:18",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-27",
+    "distance": 1071.6500244140625,
+    "elevation_gain": 0.0,
+    "id": "24523947150",
+    "moving_time": 848.0,
+    "name": "Buena Park Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-09-27T18:45:28",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-28",
+    "distance": 14504.5,
+    "elevation_gain": 0.0,
+    "id": "24529664866",
+    "moving_time": 5131.0,
+    "name": "Easy Run",
+    "raw_activity_type": "treadmill_running",
+    "raw_type": "treadmill_running",
+    "start_date_local": "2026-09-28T06:17:23",
+    "type": "VirtualRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-28",
+    "distance": 8053.93017578125,
+    "elevation_gain": 0.0,
+    "id": "24532960631",
+    "moving_time": 2716.510025024414,
+    "name": "Treadmill Running",
+    "raw_activity_type": "treadmill_running",
+    "raw_type": "treadmill_running",
+    "start_date_local": "2026-09-28T11:01:54",
+    "type": "VirtualRun",
+    "year": 2026
   }
 ]
