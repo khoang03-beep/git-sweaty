@@ -43652,5 +43652,18 @@
     "start_date_local": "2026-09-29T07:47:19",
     "type": "VirtualRun",
     "year": 2026
+  },
+  {
+    "date": "2026-09-30",
+    "distance": 9000.33984375,
+    "elevation_gain": 14.0,
+    "id": "24555045959",
+    "moving_time": 2978.988037109375,
+    "name": "Fountain Valley - Easy Run",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-09-30T06:36:52",
+    "type": "Run",
+    "year": 2026
   }
 ]
