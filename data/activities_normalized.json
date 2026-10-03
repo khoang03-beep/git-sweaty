@@ -43704,5 +43704,44 @@
     "start_date_local": "2026-10-02T06:46:53",
     "type": "VirtualRun",
     "year": 2026
+  },
+  {
+    "date": "2026-10-03",
+    "distance": 5833.509765625,
+    "elevation_gain": 2.0,
+    "id": "24589791664",
+    "moving_time": 2326.0,
+    "name": "Buena Park Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-10-03T04:57:43",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-03",
+    "distance": 8054.39013671875,
+    "elevation_gain": 1.0,
+    "id": "24590352877",
+    "moving_time": 2401.0,
+    "name": "Cypress - 3 x 10:00",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-10-03T05:40:09",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-03",
+    "distance": 4439.27001953125,
+    "elevation_gain": 7.0,
+    "id": "24590790627",
+    "moving_time": 1692.823974609375,
+    "name": "Cypress Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-10-03T06:23:01",
+    "type": "Run",
+    "year": 2026
   }
 ]
