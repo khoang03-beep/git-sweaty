@@ -43860,5 +43860,44 @@
     "start_date_local": "2026-10-08T06:47:02",
     "type": "VirtualRun",
     "year": 2026
+  },
+  {
+    "date": "2026-10-08",
+    "distance": 838.8400268554688,
+    "elevation_gain": 0.0,
+    "id": "24658142861",
+    "moving_time": 674.0,
+    "name": "Buena Park Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-10-08T18:21:38",
+    "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-09",
+    "distance": 9359.1796875,
+    "elevation_gain": 12.0,
+    "id": "24663553922",
+    "moving_time": 3601.0,
+    "name": "Fountain Valley Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-10-09T06:19:14",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-09",
+    "distance": 6002.509765625,
+    "elevation_gain": 0.0,
+    "id": "24666433190",
+    "moving_time": 2293.0,
+    "name": "Treadmill Running",
+    "raw_activity_type": "treadmill_running",
+    "raw_type": "treadmill_running",
+    "start_date_local": "2026-10-09T11:22:03",
+    "type": "VirtualRun",
+    "year": 2026
   }
 ]
