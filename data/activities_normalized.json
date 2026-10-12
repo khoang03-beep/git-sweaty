@@ -43951,5 +43951,44 @@
     "start_date_local": "2026-10-11T04:49:28",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-11",
+    "distance": 6967.9501953125,
+    "elevation_gain": 1.0,
+    "id": "24691949284",
+    "moving_time": 2114.987060546875,
+    "name": "Garden Grove Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-10-11T18:29:43",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-12",
+    "distance": 14913.4296875,
+    "elevation_gain": 0.0,
+    "id": "24697565399",
+    "moving_time": 5711.0,
+    "name": "Easy Run",
+    "raw_activity_type": "treadmill_running",
+    "raw_type": "treadmill_running",
+    "start_date_local": "2026-10-12T05:59:16",
+    "type": "VirtualRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-12",
+    "distance": 6914.5,
+    "elevation_gain": 0.0,
+    "id": "24701061567",
+    "moving_time": 2649.0,
+    "name": "Treadmill Running",
+    "raw_activity_type": "treadmill_running",
+    "raw_type": "treadmill_running",
+    "start_date_local": "2026-10-12T11:12:11",
+    "type": "VirtualRun",
+    "year": 2026
   }
 ]
