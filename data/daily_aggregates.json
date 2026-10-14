@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T20:23:42.798604+00:00",
+  "generated_at": "2026-10-14T18:59:38.049989+00:00",
   "years": {
     "2015": {
       "Run": {
@@ -26251,6 +26251,24 @@
           "distance": 21827.9296875,
           "elevation_gain": 0.0,
           "moving_time": 8360.0
+        },
+        "2026-10-13": {
+          "activity_ids": [
+            "24715196372"
+          ],
+          "count": 1,
+          "distance": 2665.969970703125,
+          "elevation_gain": 0.0,
+          "moving_time": 793.28600025177
+        },
+        "2026-10-14": {
+          "activity_ids": [
+            "24720575430"
+          ],
+          "count": 1,
+          "distance": 15246.490234375,
+          "elevation_gain": 0.0,
+          "moving_time": 5703.0
         }
       },
       "Walk": {
@@ -26516,6 +26534,15 @@
           "distance": 838.8400268554688,
           "elevation_gain": 0.0,
           "moving_time": 674.0
+        },
+        "2026-10-14": {
+          "activity_ids": [
+            "24724702296"
+          ],
+          "count": 1,
+          "distance": 330.3500061035156,
+          "elevation_gain": 1.0,
+          "moving_time": 264.0
         }
       },
       "jump_rope": {

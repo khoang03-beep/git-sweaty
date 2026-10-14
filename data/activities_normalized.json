@@ -43990,5 +43990,44 @@
     "start_date_local": "2026-10-12T11:12:11",
     "type": "VirtualRun",
     "year": 2026
+  },
+  {
+    "date": "2026-10-13",
+    "distance": 2665.969970703125,
+    "elevation_gain": 0.0,
+    "id": "24715196372",
+    "moving_time": 793.28600025177,
+    "name": "9 x 3:00",
+    "raw_activity_type": "treadmill_running",
+    "raw_type": "treadmill_running",
+    "start_date_local": "2026-10-13T16:57:30",
+    "type": "VirtualRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-14",
+    "distance": 15246.490234375,
+    "elevation_gain": 0.0,
+    "id": "24720575430",
+    "moving_time": 5703.0,
+    "name": "Easy Run",
+    "raw_activity_type": "treadmill_running",
+    "raw_type": "treadmill_running",
+    "start_date_local": "2026-10-14T04:31:49",
+    "type": "VirtualRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-14",
+    "distance": 330.3500061035156,
+    "elevation_gain": 1.0,
+    "id": "24724702296",
+    "moving_time": 264.0,
+    "name": "Salt Lake City Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-10-14T11:36:10",
+    "type": "Walk",
+    "year": 2026
   }
 ]
