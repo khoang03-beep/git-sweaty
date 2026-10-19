@@ -23729,6 +23729,27 @@
       "subtype": "walking",
       "type": "Walk",
       "year": 2026
+    },
+    {
+      "date": "2026-10-18",
+      "hour": 11,
+      "subtype": "walking",
+      "type": "Walk",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-18",
+      "hour": 16,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-19",
+      "hour": 8,
+      "subtype": "running",
+      "type": "Run",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -48536,6 +48557,24 @@
           "distance": 9986.48046875,
           "elevation_gain": 9.0,
           "moving_time": 4206.0
+        },
+        "2026-10-18": {
+          "activity_ids": [
+            "24773555959"
+          ],
+          "count": 1,
+          "distance": 9385.8701171875,
+          "elevation_gain": 9.0,
+          "moving_time": 3274.0
+        },
+        "2026-10-19": {
+          "activity_ids": [
+            "24781369395"
+          ],
+          "count": 1,
+          "distance": 13036.5,
+          "elevation_gain": 10.0,
+          "moving_time": 4584.0
         }
       },
       "Swim": {
@@ -50295,12 +50334,13 @@
         },
         "2026-10-18": {
           "activity_ids": [
-            "24770401999"
+            "24770401999",
+            "24772718161"
           ],
-          "count": 1,
-          "distance": 702.1300048828125,
-          "elevation_gain": 0.0,
-          "moving_time": 620.0
+          "count": 2,
+          "distance": 3745.5999755859375,
+          "elevation_gain": 7.0,
+          "moving_time": 2130.0
         }
       },
       "jump_rope": {
@@ -50335,7 +50375,7 @@
       }
     }
   },
-  "generated_at": "2026-10-18T17:36:24.413494+00:00",
+  "generated_at": "2026-10-19T20:15:25.192612+00:00",
   "other_bucket": "OtherSports",
   "repo": "khoang03-beep/git-sweaty",
   "source": "garmin",
