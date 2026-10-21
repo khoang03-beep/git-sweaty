@@ -44159,5 +44159,18 @@
     "start_date_local": "2026-10-20T08:52:53",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-20",
+    "distance": 761.52001953125,
+    "elevation_gain": 0.0,
+    "id": "24795482310",
+    "moving_time": 606.0,
+    "name": "Buena Park Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-10-20T12:50:02",
+    "type": "Walk",
+    "year": 2026
   }
 ]

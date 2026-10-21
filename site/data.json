@@ -23778,6 +23778,13 @@
       "subtype": "running",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-10-20",
+      "hour": 12,
+      "subtype": "walking",
+      "type": "Walk",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -50391,12 +50398,13 @@
         },
         "2026-10-20": {
           "activity_ids": [
-            "24792026258"
+            "24792026258",
+            "24795482310"
           ],
-          "count": 1,
-          "distance": 894.4500122070312,
+          "count": 2,
+          "distance": 1655.9700317382812,
           "elevation_gain": 0.0,
-          "moving_time": 763.0
+          "moving_time": 1369.0
         }
       },
       "jump_rope": {
@@ -50431,7 +50439,7 @@
       }
     }
   },
-  "generated_at": "2026-10-20T18:46:53.117428+00:00",
+  "generated_at": "2026-10-21T18:59:44.890121+00:00",
   "other_bucket": "OtherSports",
   "repo": "khoang03-beep/git-sweaty",
   "source": "garmin",
