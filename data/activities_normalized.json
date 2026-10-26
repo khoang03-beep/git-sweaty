@@ -44302,5 +44302,31 @@
     "start_date_local": "2026-10-25T08:04:15",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-10-25",
+    "distance": 9666.2900390625,
+    "elevation_gain": 14.0,
+    "id": "24850882826",
+    "moving_time": 3667.0,
+    "name": "Fountain Valley - Long Run",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-10-25T11:31:01",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-26",
+    "distance": 15833.1103515625,
+    "elevation_gain": 10.0,
+    "id": "24859386008",
+    "moving_time": 5941.0,
+    "name": "Buena Park - Easy Run",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-10-26T08:22:42",
+    "type": "Run",
+    "year": 2026
   }
 ]
