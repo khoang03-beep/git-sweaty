@@ -44393,5 +44393,44 @@
     "start_date_local": "2026-10-28T08:21:52",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-10-29",
+    "distance": 1132.2900390625,
+    "elevation_gain": 0.0,
+    "id": "24894577474",
+    "moving_time": 407.0,
+    "name": "Westminster Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-10-29T08:38:56",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-29",
+    "distance": 8811.9296875,
+    "elevation_gain": 2.0,
+    "id": "24895095599",
+    "moving_time": 2490.985999941826,
+    "name": "Westminster - 5 x 6:00",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-10-29T08:47:58",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-29",
+    "distance": 4919.7998046875,
+    "elevation_gain": 5.0,
+    "id": "24895538104",
+    "moving_time": 1855.0,
+    "name": "Westminster Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-10-29T09:34:41",
+    "type": "Run",
+    "year": 2026
   }
 ]
