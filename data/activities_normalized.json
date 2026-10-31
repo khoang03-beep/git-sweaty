@@ -44458,5 +44458,31 @@
     "start_date_local": "2026-10-30T08:17:23",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-31",
+    "distance": 2975.52001953125,
+    "elevation_gain": 2.0,
+    "id": "24916989522",
+    "moving_time": 1193.0,
+    "name": "Buena Park Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-10-31T06:10:31",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-31",
+    "distance": 9090.9404296875,
+    "elevation_gain": 10.0,
+    "id": "24917670754",
+    "moving_time": 2638.0,
+    "name": "Buena Park - W1 Thu - 10 x 3:00 threshold",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-10-31T06:34:36",
+    "type": "Run",
+    "year": 2026
   }
 ]
