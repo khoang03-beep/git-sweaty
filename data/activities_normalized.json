@@ -44484,5 +44484,18 @@
     "start_date_local": "2026-10-31T06:34:36",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-01",
+    "distance": 13167.16015625,
+    "elevation_gain": 9.0,
+    "id": "24929678563",
+    "moving_time": 5317.0,
+    "name": "Buena Park - W1 Sun - Long easy 105 min",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-11-01T05:08:45",
+    "type": "Run",
+    "year": 2026
   }
 ]
