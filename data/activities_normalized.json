@@ -44497,5 +44497,18 @@
     "start_date_local": "2026-11-01T05:08:45",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-02",
+    "distance": 15386.6103515625,
+    "elevation_gain": 0.0,
+    "id": "24940614271",
+    "moving_time": 5728.727006912231,
+    "name": "W1 Mon - Easy 55 min",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-11-02T05:55:41",
+    "type": "Run",
+    "year": 2026
   }
 ]
