@@ -44510,5 +44510,31 @@
     "start_date_local": "2026-11-02T05:55:41",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-03",
+    "distance": 8234.08984375,
+    "elevation_gain": 0.0,
+    "id": "24952090098",
+    "moving_time": 2340.5609999895096,
+    "name": "W1 Tue - 5 x 6:00 threshold",
+    "raw_activity_type": "treadmill_running",
+    "raw_type": "treadmill_running",
+    "start_date_local": "2026-11-03T05:52:56",
+    "type": "VirtualRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-03",
+    "distance": 6308.77978515625,
+    "elevation_gain": 5.0,
+    "id": "24952795793",
+    "moving_time": 2419.0,
+    "name": "Irvine Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-11-03T06:54:13",
+    "type": "Run",
+    "year": 2026
   }
 ]
