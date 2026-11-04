@@ -44536,5 +44536,31 @@
     "start_date_local": "2026-11-03T06:54:13",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-04",
+    "distance": 11408.400390625,
+    "elevation_gain": 0.0,
+    "id": "24964805177",
+    "moving_time": 4261.0,
+    "name": "W1 Wed - Easy 65 min + strides",
+    "raw_activity_type": "treadmill_running",
+    "raw_type": "treadmill_running",
+    "start_date_local": "2026-11-04T06:12:37",
+    "type": "VirtualRun",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-04",
+    "distance": 6474.669921875,
+    "elevation_gain": 0.0,
+    "id": "24968450697",
+    "moving_time": 2394.4960021972656,
+    "name": "Treadmill Running",
+    "raw_activity_type": "treadmill_running",
+    "raw_type": "treadmill_running",
+    "start_date_local": "2026-11-04T11:50:59",
+    "type": "VirtualRun",
+    "year": 2026
   }
 ]
