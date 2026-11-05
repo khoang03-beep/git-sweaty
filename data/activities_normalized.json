@@ -44562,5 +44562,18 @@
     "start_date_local": "2026-11-04T11:50:59",
     "type": "VirtualRun",
     "year": 2026
+  },
+  {
+    "date": "2026-11-05",
+    "distance": 9244.849609375,
+    "elevation_gain": 0.0,
+    "id": "24976672431",
+    "moving_time": 2640.852999985218,
+    "name": "W1 Thu - 10 x 3:00 threshold",
+    "raw_activity_type": "treadmill_running",
+    "raw_type": "treadmill_running",
+    "start_date_local": "2026-11-05T06:59:32",
+    "type": "VirtualRun",
+    "year": 2026
   }
 ]
