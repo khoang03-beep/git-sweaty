@@ -44614,5 +44614,18 @@
     "start_date_local": "2026-11-08T05:14:09",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-09",
+    "distance": 14670.6103515625,
+    "elevation_gain": 0.0,
+    "id": "25020693508",
+    "moving_time": 5266.876003265381,
+    "name": "W2 Mon - Easy 55 min",
+    "raw_activity_type": "treadmill_running",
+    "raw_type": "treadmill_running",
+    "start_date_local": "2026-11-09T06:15:13",
+    "type": "VirtualRun",
+    "year": 2026
   }
 ]
