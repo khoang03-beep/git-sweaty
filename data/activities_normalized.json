@@ -44705,5 +44705,18 @@
     "start_date_local": "2026-11-15T05:02:42",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-16",
+    "distance": 15081.580078125,
+    "elevation_gain": 0.0,
+    "id": "25098288635",
+    "moving_time": 5437.0,
+    "name": "W3 Mon - Easy 55 min",
+    "raw_activity_type": "treadmill_running",
+    "raw_type": "treadmill_running",
+    "start_date_local": "2026-11-16T06:11:08",
+    "type": "VirtualRun",
+    "year": 2026
   }
 ]
