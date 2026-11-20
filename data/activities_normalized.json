@@ -44744,5 +44744,18 @@
     "start_date_local": "2026-11-18T03:22:07",
     "type": "VirtualRun",
     "year": 2026
+  },
+  {
+    "date": "2026-11-20",
+    "distance": 10193.8603515625,
+    "elevation_gain": 9.0,
+    "id": "25143793035",
+    "moving_time": 3505.6929893493652,
+    "name": "Buena Park Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-11-20T08:50:52",
+    "type": "Run",
+    "year": 2026
   }
 ]
