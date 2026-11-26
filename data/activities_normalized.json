@@ -44848,5 +44848,31 @@
     "start_date_local": "2026-11-24T16:11:02",
     "type": "VirtualRun",
     "year": 2026
+  },
+  {
+    "date": "2026-11-26",
+    "distance": 5011.669921875,
+    "elevation_gain": 65.0,
+    "id": "25206936255",
+    "moving_time": 1332.0,
+    "name": "Fullerton Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-11-26T07:33:05",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-26",
+    "distance": 632.47998046875,
+    "elevation_gain": 1.0,
+    "id": "25208114916",
+    "moving_time": 526.8989868164062,
+    "name": "Buena Park Walking",
+    "raw_activity_type": "walking",
+    "raw_type": "walking",
+    "start_date_local": "2026-11-26T09:22:45",
+    "type": "Walk",
+    "year": 2026
   }
 ]
